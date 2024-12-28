@@ -44,18 +44,11 @@ body{
     min-width: 414px;
     height: 1024px;
     margin-bottom: 500px;
-    background-image: url (img/dombai_preview.jpg);
+    background-image: url(img/dombai_preview.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
-
-
-
-
-
-
-
 
 
 .text1{
