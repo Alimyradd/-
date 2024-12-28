@@ -9,7 +9,7 @@ body{
 .head2, /*.nach1,*/ .nach2{
     display: inline-block;
 }
-
+/*
 .dropbtn {
     background-color: #3498DB;
     color: white;
@@ -38,7 +38,7 @@ body{
   }
   .show {
     display: block;
-  }
+  } */
   
 .nom1{
     min-width: 414px;
