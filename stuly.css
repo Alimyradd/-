@@ -44,7 +44,7 @@ body{
     min-width: 414px;
     height: 1024px;
     margin-bottom: 500px;
-    background-image: url(/img/dombai_preview.jpg);
+    background-image: url(../img/dombai_preview.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -241,7 +241,7 @@ body{
     height: 450px;
     margin: 0 50px ;
     padding-top: 25px;
-    background-image: url(/img/prog1.webp);
+    background-image: url(../img/prog1.webp);
     background-size: cover;
     background-position: 50%;
     margin-bottom: 5px;
@@ -250,7 +250,7 @@ body{
     height: 450px;
     margin: 0 50px ;
     padding-top: 25px;
-    background-image: url(/img/prog2.jpg);
+    background-image: url(../img/prog2.jpg);
     background-size: cover;
     background-position: 50%;
     margin-bottom: 5px;
@@ -259,7 +259,7 @@ body{
     height: 450px;
     margin: 0 50px ;
     padding-top: 25px;
-    background-image: url(/img/prog3.jpg);
+    background-image: url(../img/prog3.jpg);
     background-size: cover;
     background-position: 50%;
     margin-bottom: 5px;
@@ -268,7 +268,7 @@ body{
     height: 450px;
     margin: 0 50px ;
     padding-top: 25px;
-    background-image: url(/img/prog4.jpg);
+    background-image: url(../img/prog4.jpg);
     background-size: cover;
     background-position: 50%;
     margin-bottom: 5px;
@@ -277,7 +277,7 @@ body{
     height: 450px;
     margin: 0 50px ;
     padding-top: 25px;
-    background-image: url(/img/prog5.jpg);
+    background-image: url(../img/prog5.jpg);
     background-size: cover;
     background-position: 50%;
     margin-bottom: 5px;
@@ -286,7 +286,7 @@ body{
     height: 450px;
     margin: 0 50px ;
     padding-top: 25px;
-    background-image: url(/img/prog6.webp);
+    background-image: url(../img/prog6.webp);
     background-size: cover;
     background-position: 50%;
     margin-bottom: 5px;
@@ -337,7 +337,7 @@ body{
     height: 800px;
     margin: 0 0px ;
     padding-top: 150px;
-    background-image: url(/img/putfon.gif);
+    background-image: url(../img/putfon.gif);
     background-size: cover;
     background-position: 50%;
     margin-bottom: 5px;
